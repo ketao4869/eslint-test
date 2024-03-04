@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.2](https://github.com/ketao4869/eslint-test/compare/v2.2.1...v2.2.2) (2024-03-04)
+
+
+### 👷 Continuous Integration | CI 配置
+
+* :ferris_wheel: 使用changelogithub自动创建发行版 ([459f769](https://github.com/ketao4869/eslint-test/commit/459f76955855a908ae784cdd3e9a50711294cacb))
+
 ### [2.2.1](https://github.com/ketao4869/eslint-test/compare/v2.2.0...v2.2.1) (2024-03-04)
 
 
