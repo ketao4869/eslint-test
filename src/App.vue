@@ -4,7 +4,7 @@
 <template>
 	<div>
 		新特性
-		BUG西欧i古.a
+		BUG西欧i古.a11
 	</div>
 </template>
 
