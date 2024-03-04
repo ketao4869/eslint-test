@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/ketao4869/eslint-test/compare/v2.1.0...v2.1.1) (2024-03-04)
+
+
+### 🚀 Chore | 构建/工程依赖/工具
+
+* :hammer: releases ([709930d](https://github.com/ketao4869/eslint-test/commit/709930dc92ab1f2eb546e31f75b80c0739572341))
+
 ## [2.1.0](https://github.com/ketao4869/eslint-test/compare/v2.0.5...v2.1.0) (2024-03-04)
 
 
