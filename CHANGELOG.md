@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.2](https://github.com/ketao4869/eslint-test/compare/v2.1.1...v2.1.2) (2024-03-04)
+
+
+### 📦‍ Build System | 打包构建
+
+* :package: 清除其他工具文件 ([dc872e1](https://github.com/ketao4869/eslint-test/commit/dc872e1a1aab102e961326bb0815047508cce5c0))
+
 ### [2.1.1](https://github.com/ketao4869/eslint-test/compare/v2.1.0...v2.1.1) (2024-03-04)
 
 
