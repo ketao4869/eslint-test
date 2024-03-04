@@ -3,7 +3,7 @@
 
 <template>
 	<div>
-		新特性iss
+		测试关闭issues
 	</div>
 </template>
 
