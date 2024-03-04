@@ -1,3 +1,4 @@
+// standard-version
 module.exports = {
 	types: [
 		{ type: 'feat', section: '✨ Features | 新功能' },
@@ -8,7 +9,7 @@ module.exports = {
 		{ type: 'refactor', section: '♻️ Code Refactoring | 代码重构' },
 		{ type: 'perf', section: '⚡ Performance Improvements | 性能优化' },
 		{ type: 'test', section: '✅ Tests | 测试' },
-		{ type: 'revert', section: '⏪ Revert | 回退', hidden: true },
+		{ type: 'revert', section: '⏪ Revert | 回退' },
 		{ type: 'build', section: '📦‍ Build System | 打包构建' },
 		{ type: 'chore', section: '🚀 Chore | 构建/工程依赖/工具' },
 		{ type: 'ci', section: '👷 Continuous Integration | CI 配置' },
