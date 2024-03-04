@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.1](https://github.com/ketao4869/eslint-test/compare/v2.2.0...v2.2.1) (2024-03-04)
+
+
+### 👷 Continuous Integration | CI 配置
+
+* :ferris_wheel: 权限错误 ([367328b](https://github.com/ketao4869/eslint-test/commit/367328bbe7d517adc32e0e3235c2bf187c3b6c3b))
+
 ## [2.2.0](https://github.com/ketao4869/eslint-test/compare/v2.1.2...v2.2.0) (2024-03-04)
 
 
