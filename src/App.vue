@@ -3,7 +3,7 @@
 
 <template>
 	<div>
-		新特性
+		新特性iss
 	</div>
 </template>
 
