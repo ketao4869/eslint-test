@@ -2,6 +2,36 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/ketao4869/eslint-test/compare/v2.1.2...v2.2.0) (2024-03-04)
+
+
+### ✨ Features | 新功能
+
+* **aa:** asdasd ([d70b25c](https://github.com/ketao4869/eslint-test/commit/d70b25c1344630b458dea8d29f0d0ab7030bc571))
+
+
+### 🚀 Chore | 构建/工程依赖/工具
+
+* 配置cz-git ([d541edb](https://github.com/ketao4869/eslint-test/commit/d541edba6f161d7367e7ea8df255f9e08b445a3d)), closes [#1](https://github.com/ketao4869/eslint-test/issues/1) [#4](https://github.com/ketao4869/eslint-test/issues/4) [#3](https://github.com/ketao4869/eslint-test/issues/3)
+
+
+### ✏️ Documentation | 文档
+
+* aaaaaaaaaaaaaaaaaaaaaaaaa ([8253824](https://github.com/ketao4869/eslint-test/commit/8253824cf0cfe0fc9a3ecdb43435e519dca957b7)), closes [#1](https://github.com/ketao4869/eslint-test/issues/1) [#2](https://github.com/ketao4869/eslint-test/issues/2)
+* test ([bf126cd](https://github.com/ketao4869/eslint-test/commit/bf126cd5b116de0daa466d37c966c057319f667a)), closes [#1](https://github.com/ketao4869/eslint-test/issues/1) [#3](https://github.com/ketao4869/eslint-test/issues/3)
+
+
+### 💄 Styles | 风格
+
+* :lipstick: 我修改了XX ([fd450d8](https://github.com/ketao4869/eslint-test/commit/fd450d8568f5bd34238cabade89049a83964534b)), closes [#2](https://github.com/ketao4869/eslint-test/issues/2) [#3](https://github.com/ketao4869/eslint-test/issues/3)
+* eslint 修复 ([960d66f](https://github.com/ketao4869/eslint-test/commit/960d66f4dffade898fbd769b9b878d5a4651f791)), closes [#4](https://github.com/ketao4869/eslint-test/issues/4) [#3](https://github.com/ketao4869/eslint-test/issues/3)
+* **git:** :lipstick: 开启emoji ([43c9015](https://github.com/ketao4869/eslint-test/commit/43c90151ccb377acbb6bc8df97d65c5f2a468d54))
+
+
+### 👷 Continuous Integration | CI 配置
+
+* :ferris_wheel: upload CI ([5e0e65d](https://github.com/ketao4869/eslint-test/commit/5e0e65d569b8da4d6172974f1c20862a923a3443))
+
 ### [2.1.2](https://github.com/ketao4869/eslint-test/compare/v2.1.1...v2.1.2) (2024-03-04)
 
 
