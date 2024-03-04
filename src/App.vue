@@ -3,8 +3,7 @@
 
 <template>
 	<div>
-		测试关闭issues
-		权限问题
+		测试分支开发
 	</div>
 </template>
 
