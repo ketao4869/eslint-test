@@ -3,7 +3,7 @@
 
 <template>
 	<div>
-		新功能12
+		新功能12阿松大
 	</div>
 </template>
 
