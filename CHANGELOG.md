@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/ketao4869/eslint-test/compare/v2.0.5...v2.1.0) (2024-03-04)
+
+
+### ✨ Features | 新功能
+
+* 啊数据库的和 ([9683e21](https://github.com/ketao4869/eslint-test/commit/9683e21ef41f1053ffd60bbed1a30a781f1f40f0))
+
 ### [2.0.5](https://github.com/ketao4869/eslint-test/compare/v2.0.4...v2.0.5) (2024-03-04)
 
 ### [2.0.4](https://github.com/ketao4869/eslint-test/compare/v2.0.3...v2.0.4) (2024-03-04)
