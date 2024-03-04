@@ -4,6 +4,7 @@
 <template>
 	<div>
 		测试关闭issues
+		权限问题
 	</div>
 </template>
 
