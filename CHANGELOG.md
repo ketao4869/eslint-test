@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](https://github.com/ketao4869/eslint-test/compare/v2.2.2...v2.3.0) (2024-03-04)
+
+
+### ✨ Features | 新功能
+
+* :sparkles: 测试分支开发 ([82f6a09](https://github.com/ketao4869/eslint-test/commit/82f6a093dc16dce11dfd322e29880f9cf89ab9a2))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* :bug: 修复一个错误 ([c9ddfb6](https://github.com/ketao4869/eslint-test/commit/c9ddfb64cbcf68beb7c3fd62fb6db6c2c9b1385d))
+
 ### [2.2.2](https://github.com/ketao4869/eslint-test/compare/v2.2.1...v2.2.2) (2024-03-04)
 
 
